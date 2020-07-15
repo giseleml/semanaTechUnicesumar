@@ -110,6 +110,12 @@ Encarregado pela proteção de dados, buscando garantir o cumprimento da Lei. Po
 ### É levado em conta pela Autoridade Nacional:
 Reincidência, boa-fé, condição econômica, proporção da infração, cooperação do infrator (não tentar omitir), grau do dano, vantagens obtida/pretendida (vazamento proposital), pronta adoção de medidas para corrigir vazamentos, etc.
 
+## Privacy By Design
+Produto ou serviço onde a privacidade é pensada logo na sua concepção. É pró-ativo, antes de fazer deve ser pensado em boas práticas e métodos para a segurança e privacidade da informação; Está no desenho do produto. 
+
+## Privacy By Default 
+Decorrência do Privacy By Design; O sistema vem o mais protegido possível, não coletando dados do qual não foi autorizado por padrão. O produto ou serviço é lançado e recebido pelo usuário com todas as seguranças que foram concebidas durante seu desenvolvimento, atendendo o princípio do Privacy by Design. Exemplo: Cookies; Hoje em dia é comum os sites apresentarem o pedido de aceita-los ou não. 
+
 ## CITAÇÕES
 - Mapa em tempo real de riscos cibernéticos: cybermap.kaspersky.com
 
